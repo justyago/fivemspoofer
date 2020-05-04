@@ -1,0 +1,12 @@
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\UnBanSpoofer.exe.config
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\UnBanSpoofer.exe
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\UnBanSpoofer.pdb
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\Castle.Core.dll
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\FakeItEasy.dll
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\Castle.Core.xml
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\FakeItEasy.pdb
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Release\FakeItEasy.xml
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Release\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Release\HardwareSpoofer.csproj.CopyComplete
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Release\UnBanSpoofer.exe
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Release\UnBanSpoofer.pdb

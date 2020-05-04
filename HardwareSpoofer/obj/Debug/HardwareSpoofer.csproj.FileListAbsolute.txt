@@ -1,0 +1,178 @@
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\HardwareSpoofer.exe.config
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\HardwareSpoofer.exe
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\HardwareSpoofer.pdb
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.exe
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.pdb
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\Users\Kuzi\Desktop\Fivem\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\obj\Debug\HardwareSpoofer.exe
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\obj\Debug\HardwareSpoofer.pdb
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\HardwareSpoofer.exe.config
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\HardwareSpoofer.exe
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\HardwareSpoofer.pdb
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\Users\Tursu\Desktop\fivemunban\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe.config
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.pdb
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.exe
+C:\Users\yagoj\Desktop\fivemunban\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.pdb
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe.config
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.pdb
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\- IDK -\hwıd\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\- IDK -\hwıd\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\- IDK -\hwıd\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.exe
+C:\- IDK -\hwıd\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.pdb
+C:\- IDK -\hwıd\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe.config
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.pdb
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.exe
+C:\Users\yagoj\Desktop\MACChanger-master\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.pdb
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe.config
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.exe
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\RICH HWID SPOOF.pdb
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\- IDK -\MACChanger-master\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\- IDK -\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\- IDK -\MACChanger-master\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\- IDK -\MACChanger-master\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.exe
+C:\- IDK -\MACChanger-master\HardwareSpoofer\obj\Debug\RICH HWID SPOOF.pdb
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe.config
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.pdb
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\UnBanSpoofer.exe
+C:\Users\yagoj\Desktop\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\UnBanSpoofer.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe.config
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\UnBanSpoofer.exe
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\UnBanSpoofer.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\DiscordRPC.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\DiscordRPC.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\DiscordRPC.xml
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Core.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.xml
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.xml
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Core.pdb
+C:\Users\yagoj\Desktop\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Core.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe.config
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\UnBanSpoofer.pdb
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Castle.Core.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\DiscordRPC.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Core.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.PlatformServices.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Newtonsoft.Json.dll
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Castle.Core.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\DiscordRPC.pdb
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\DiscordRPC.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.pdb
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.pdb
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Auth.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Core.pdb
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Google.Apis.Core.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\bin\Debug\Newtonsoft.Json.xml
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CoreCompileInputs.cache
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\UnBanSpoofer.exe
+D:\- IDK -\,\Rich UnBan Spoofer\HardwareSpoofer\obj\Debug\UnBanSpoofer.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe.config
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\UnBanSpoofer.exe
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\UnBanSpoofer.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Castle.Core.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\DiscordRPC.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\FakeItEasy.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Auth.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Core.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Castle.Core.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\DiscordRPC.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\DiscordRPC.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\FakeItEasy.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\FakeItEasy.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Auth.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Core.pdb
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Google.Apis.Core.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\obj\Debug\HardwareSpoofer.csprojAssemblyReference.cache
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\obj\Debug\HardwareSpoofer.csproj.CopyComplete
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\obj\Debug\UnBanSpoofer.exe
+C:\Users\YAGO\Desktop\𝗥𝗜𝗖𝗛 𝗦𝗣𝗢𝗢𝗙𝗘𝗥\HardwareSpoofer\obj\Debug\UnBanSpoofer.pdb

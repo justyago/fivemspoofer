@@ -1,0 +1,17 @@
+<project outputDir="C:\Users\yagoj\Desktop\NETSecure" baseDir="C:\Users\yagoj\Desktop" xmlns="http://confuser.codeplex.com">
+  <module path="UnBanSpoofer.exe">
+    <rule pattern="true" preset="maximum" inherit="false">
+      <protection id="Anti Debug Antinet" />
+      <protection id="Fake Native" />
+      <protection id="constants" />
+      <protection id="anti dump" />
+      <protection id="anti debug" />
+      <protection id="stack underflow" />
+      <protection id="Clean ref proxy" />
+      <protection id="ref proxy" />
+      <protection id="anti ildasm" />
+      <protection id="Const disint" />
+      <protection id="resources" />
+    </rule>
+  </module>
+</project>
